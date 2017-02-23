@@ -1,0 +1,17 @@
+{
+  "name": "newprojectpwithconfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "http-server": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+	"start":"node_modules/.bin/http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
